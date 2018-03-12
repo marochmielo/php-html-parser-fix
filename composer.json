@@ -1,8 +1,8 @@
 {
-    "name": "paquettg/php-html-parser",
+    "name": "marochmielo/php-html-parser-fix",
     "type": "library",
     "version": "1.7.0",
-    "description": "An HTML DOM parser. It allows you to manipulate HTML. Find tags on an HTML page with selectors just like jQuery.",
+    "description": "https://github.com/paquettg/php-html-parser with fix from @Mehrdad-Dadkhah that supports php7.2",
     "keywords": ["html", "dom", "parser"],
     "homepage": "https://github.com/paquettg/php-html-parser",
     "license": "MIT",
